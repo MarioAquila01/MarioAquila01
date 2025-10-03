@@ -56,9 +56,12 @@
 - **E-commerce por Microserviços (.NET)** — JWT, RabbitMQ, gateway YARP • **[Repo](https://github.com/MarioAquila01/Desafio-Microservicos-Ecommerce)**
 
 ---
-
-## Bootcamps & Trilhas
-Nexa (AWS/Bedrock) • Avanade (Backend+IA) • Microsoft AI
+### 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioAquila01&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioAquila01&theme=tokyonight" />
+</p>
 
 ---
 
