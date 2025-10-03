@@ -1,11 +1,9 @@
 # Mario Aquila — Pit.dev Solutions
 **Backend/DevOps, IA Generativa & React.** Construo APIs escaláveis, sistemas orientados a eventos (filas), automação, observabilidade forte e deploy simples.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Devpost-0A66C2?logo=devpost&logoColor=white)](https://devpost.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Aquila-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-aquila-scorzo-5a0b24102/)
-![Brazil](https://img.shields.io/badge/BR-Developer-009739?labelColor=222)
-![Open%20to%20collab](https://img.shields.io/badge/Open%20to-Collaboration-6E56CF)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Open+to+remote+collaboration" />
+</p>
 ---
 
 ## Em foco
