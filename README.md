@@ -51,9 +51,21 @@
 - **IA (GenAI):** prompts estruturados, RAG básico, integrações **Claude/Gemini/GPT** quando necessário
 
 ---
-
-## Portfólio (amostras)
-- **E-commerce por Microserviços (.NET)** — JWT, RabbitMQ, gateway YARP • **[Repo](https://github.com/MarioAquila01/Desafio-Microservicos-Ecommerce)**
+timeline
+    title Jornada Dev do Mario
+    2022 : Início com Python e lógica
+    2023 : REST APIs com FastAPI + SQLite
+         : Docker básico e Git/GitHub no dia a dia
+    2024 : CI/CD na prática (pipelines) e Docker Compose
+         : Fundamentos de Linux (Alura)
+    2025-06 : Certificado Python – Santander Academia
+    2025-07 : Imersão Cloud & DevOps (Alura + Google) — Docker Compose, GitLab CI/CD
+         : Certificado DevOps – Alura
+    2025-09 : Vertex AI (Google Cloud): testes com geração de texto/imagem e embeddings
+         : Desafio Microserviços E-commerce (Avanade/DIO)
+    2025-10 : Badge DIO — Versionamento com Git & GitHub
+         : Foco: cloud, microserviços e arquitetura escalável
+```0
 
 ---
 ### 📈 GitHub Insights
