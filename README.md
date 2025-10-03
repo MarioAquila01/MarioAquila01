@@ -51,6 +51,23 @@
 - **IA (GenAI):** prompts estruturados, RAG básico, integrações **Claude/Gemini/GPT** quando necessário
 
 ---
+### 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioAquila01&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioAquila01&theme=tokyonight" />
+</p>
+
+---
+
+## Contato
+**LinkedIn:** https://www.linkedin.com/in/mario-aquila-scorzo-5a0b24102/ 
+
+---
+
+### 📅 Jornada Dev
+
+```mermaid
 timeline
     title Jornada Dev do Mario
     2022 : Início com Python e lógica
@@ -65,17 +82,3 @@ timeline
          : Desafio Microserviços E-commerce (Avanade/DIO)
     2025-10 : Badge DIO — Versionamento com Git & GitHub
          : Foco: cloud, microserviços e arquitetura escalável
-```0
-
----
-### 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioAquila01&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioAquila01&theme=tokyonight" />
-</p>
-
----
-
-## Contato
-**LinkedIn:** https://www.linkedin.com/in/mario-aquila-scorzo-5a0b24102/ 
