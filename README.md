@@ -61,7 +61,8 @@
 ---
 
 ## Contato
-**LinkedIn:** https://www.linkedin.com/in/mario-aquila-scorzo-5a0b24102/ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Aquila-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-aquila-scorzo-5a0b24102/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Devpost-0A66C2?logo=devpost&logoColor=white)](https://devpost.com/m_scorzo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ---
 
